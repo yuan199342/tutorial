@@ -1,3 +1,4 @@
 連猴子都懂得Git
 add 修改加入書籤
 remove 移除
+commit 記錄索引的狀態
